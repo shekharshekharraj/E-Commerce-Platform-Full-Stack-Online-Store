@@ -2,6 +2,8 @@
 
 A comprehensive, full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React, Node.js). This platform provides a complete online retail experience, featuring a dynamic shopping cart, secure payment processing with Stripe, and a full-featured admin dashboard for product management and sales analytics.
 
+[LIVE LINK: https://e-commerce-platform-full-stack-online.onrender.com]
+
 ## ✨ Features
 
 ### 👑 Admin Features
@@ -112,4 +114,4 @@ A brief overview of the main API routes available.
 | `GET`    | `/api/analytics`                  | Get sales and user analytics data.                  | Yes       | Yes        |
 | `POST`   | `/api/payments/create-checkout`   | Create a new Stripe checkout session.               | Yes       | No         |
 
-##Auther: Raj Shekhar
+##Author: Raj Shekhar
